@@ -1,0 +1,141 @@
+THE EAGLE'S EYE MEDIA — PROPRIETARY SOFTWARE LICENSE
+
+Copyright © 2026 The Eagle's Eye Media. All Rights Reserved.
+Yaoundé, Cameroon · theeagleseyemedia.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+IMPORTANT — READ CAREFULLY BEFORE USING, COPYING, OR DISTRIBUTING THIS
+SOFTWARE OR ANY ASSOCIATED FILES, DOCUMENTATION, OR CONTENT.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. OWNERSHIP & INTELLECTUAL PROPERTY
+   ─────────────────────────────────
+   This software, including all source code, design assets, editorial systems,
+   database schemas, API specifications, branding materials, documentation, and
+   any associated files (collectively the "Software"), is the exclusive
+   intellectual property of The Eagle's Eye Media.
+
+   The Eagle's Eye Media name, logo, "Eye of the Parliament" tagline, and all
+   associated trademarks are registered or unregistered marks of The Eagle's Eye
+   Media and may not be used without prior written consent.
+
+2. GRANT OF LICENSE
+   ─────────────────
+   No license, express or implied, is granted to any person or entity to use,
+   copy, reproduce, modify, distribute, sublicense, sell, or create derivative
+   works of this Software in whole or in part, except as explicitly authorised
+   in a separate written agreement signed by The Eagle's Eye Media.
+
+   Authorised personnel (employees, contractors, and approved contributors) may
+   access and modify this Software solely for the benefit of The Eagle's Eye
+   Media and solely within the scope of their authorised engagement.
+
+3. RESTRICTIONS
+   ─────────────
+   Without the prior written consent of The Eagle's Eye Media, you may NOT:
+
+   a) Copy, reproduce, or distribute this Software or any portion thereof;
+   b) Modify, adapt, translate, reverse-engineer, decompile, or disassemble any
+      part of this Software;
+   c) Remove, alter, or obscure any proprietary notices, watermarks, or branding;
+   d) Use this Software or any part thereof to build a competing product or service;
+   e) Publish, disclose, or make available the source code or architecture of
+      this Software to any third party;
+   f) Use The Eagle's Eye Media name, logo, or branding in any form without
+      explicit written authorisation;
+   g) Use editorial content, article text, photographs, or multimedia assets
+      published on the platform without a separate content licence.
+
+4. THIRD-PARTY COMPONENTS
+   ───────────────────────
+   This Software incorporates open-source components which are governed by their
+   respective licences (MIT, Apache 2.0, BSD, etc.). Those components remain
+   the property of their respective authors. This proprietary licence applies
+   only to the original work of The Eagle's Eye Media that wraps, configures,
+   or builds upon those components.
+
+   Key third-party dependencies include (but are not limited to):
+   - TanStack Start / Router / Query (MIT)
+   - React and React Native (MIT)
+   - Expo SDK (MIT)
+   - Tailwind CSS (MIT)
+   - Supabase JS Client (MIT)
+   - Radix UI (MIT)
+   - Lucide React (ISC)
+   - Zod (MIT)
+   - Sonner (MIT)
+   - Nodemailer (MIT)
+   - Recharts (MIT)
+
+5. CONFIDENTIALITY
+   ─────────────────
+   This Software contains confidential and proprietary information of The
+   Eagle's Eye Media, including but not limited to API architecture, database
+   schema, payment integration patterns, and editorial workflow logic. All
+   authorised users are obligated to maintain the confidentiality of this
+   information and may not disclose it to unauthorised parties.
+
+6. EDITORIAL CONTENT
+   ──────────────────
+   All editorial content published through this platform — including articles,
+   analyses, photographs, video scripts, and opinion pieces — is protected by
+   copyright and may not be reproduced, repurposed, or redistributed without
+   the express written permission of The Eagle's Eye Media editorial team.
+
+   For content licensing or syndication enquiries, contact:
+   syndication@theeagleseyemedia.com
+
+7. DATA & PRIVACY
+   ───────────────
+   This Software processes personal data in accordance with applicable data
+   protection laws, including Cameroon's data protection framework. The
+   Privacy Policy available at https://theeagleseyemedia.com/legal/privacy-policy
+   governs the collection, storage, and processing of user data.
+
+8. DISCLAIMER OF WARRANTIES
+   ─────────────────────────
+   THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+   FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+   EAGLE'S EYE MEDIA BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
+   ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+9. LIMITATION OF LIABILITY
+   ────────────────────────
+   TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE EAGLE'S EYE MEDIA
+   SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+   CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF PROFITS, DATA, OR BUSINESS
+   INTERRUPTION) ARISING OUT OF OR RELATED TO THIS SOFTWARE, EVEN IF ADVISED
+   OF THE POSSIBILITY OF SUCH DAMAGES.
+
+10. GOVERNING LAW & JURISDICTION
+    ─────────────────────────────
+    This License shall be governed by and construed in accordance with the laws
+    of the Republic of Cameroon. Any dispute arising out of or in connection
+    with this License shall be subject to the exclusive jurisdiction of the
+    competent courts of Yaoundé, Cameroon.
+
+11. TERMINATION
+    ────────────
+    Any rights granted under this License shall terminate immediately and
+    automatically upon any breach of its terms. Upon termination, all copies of
+    the Software in the possession of the breaching party must be destroyed.
+
+12. CONTACT & ENQUIRIES
+    ────────────────────
+    For licensing enquiries, permissions, or legal matters:
+
+    The Eagle's Eye Media — Legal & Compliance Desk
+    Email:   legal@theeagleseyemedia.com
+    Website: https://theeagleseyemedia.com/contact
+
+    For general enquiries:
+    Email:   contact@theeagleseyemedia.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    🦅  THE EAGLE'S EYE MEDIA  ·  EYE OF THE PARLIAMENT  ·  2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

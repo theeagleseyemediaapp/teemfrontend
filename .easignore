@@ -1,0 +1,16 @@
+# Ignore all heavy directories and node_modules globally
+**/node_modules/
+**/dist/
+**/.git/
+**/.expo/
+backend/
+src/
+public/
+docs/
+scratch/
+apps/Eagle Mobile/
+apps/teemstudiomix/
+apps/website/
+.wrangler/
+.tanstack/
+*.log

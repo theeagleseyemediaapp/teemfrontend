@@ -1,0 +1,82 @@
+{
+  "expo": {
+    "name": "The Eagle's Eye Media",
+    "slug": "theeagleseyemedia",
+    "version": "1.0.2",
+    "description": "Cameroon's premier independent parliamentary news platform. This app does not represent any government entity. Official sources: www.assnat.cm and www.senat.cm.",
+    "scheme": "theeagleseyemedia",
+    "jsEngine": "hermes",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/logo.png",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.theeagleseyemedia.app",
+      "buildNumber": "3",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#050596"
+      },
+      "package": "com.theeagleseyemedia.app",
+      "versionCode": 5,
+      "allowBackup": false,
+      "softwareKeyboardLayoutMode": "pan",
+      "permissions": [
+        "INTERNET",
+        "ACCESS_NETWORK_STATE",
+        "POST_NOTIFICATIONS",
+        "READ_MEDIA_IMAGES",
+        "VIBRATE",
+        "WAKE_LOCK"
+      ]
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "compileSdkVersion": 36,
+            "targetSdkVersion": 35,
+            "minSdkVersion": 24,
+            "enableArchitectures": ["arm64-v8a", "x86_64"]
+          }
+        }
+      ],
+      [
+        "expo-router",
+        {
+          "root": "./app"
+        }
+      ],
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash.png",
+          "resizeMode": "contain",
+          "backgroundColor": "#050596"
+        }
+      ],
+      "expo-secure-store",
+      "expo-sharing"
+    ],
+    "extra": {
+      "copyright": "© 2026 The Eagle's Eye Media. All rights reserved.",
+      "privacyPolicy": "https://theeagleseyemedia.com/legal/privacy-policy",
+      "apiUrl": "https://the-eagles-eye-backend-api.onrender.com/api/v1",
+      "router": {
+        "root": "./app"
+      },
+      "eas": {
+        "projectId": "c2a34585-f02e-4bd0-8f8c-1a5879950430"
+      }
+    },
+    "runtimeVersion": "1.0.2",
+    "updates": {
+      "url": "https://u.expo.dev/c2a34585-f02e-4bd0-8f8c-1a5879950430"
+    }
+  }
+}

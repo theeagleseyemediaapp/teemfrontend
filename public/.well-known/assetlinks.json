@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.theeagleseyemedia.app",
+      "sha256_cert_fingerprints": [
+        "14:77:71:8E:80:71:E3:A3:80:C9:CA:20:44:C1:EB:4C:ED:00:89:AF:60:2C:69:BC:3D:91:E4:7A:37:D5:23:DF"
+      ]
+    }
+  }
+]

@@ -1,0 +1,16 @@
+packages:
+  - "apps/*"
+  - "packages/*"
+  - "backend"
+
+allowBuilds:
+  core-js-pure: true
+  esbuild: true
+onlyBuiltDependencies:
+  - core-js-pure
+
+overrides:
+  expo: "57.0.9"
+  expo-asset: "~57.0.6"
+  react-native-webview: "13.16.1"
+  "@react-native/babel-plugin-codegen": "0.86.0"
